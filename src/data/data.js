@@ -64,14 +64,15 @@ export const importantDatesData=[
 export const importantAnnouncements=[
    
     {
-        content:"IPDIMS Brochure Released",
-        
-        
+        content:"Manuscript submission is extended till 15/10/2023",
     },
     {
         content:"Manuscript Submission Portel Opened",
        
     },
+    {
+        content:"IPDIMS Brochure Released",
+    }
 ]
 
 
