@@ -35,7 +35,7 @@ export const importantDatesData=[
     {
         title:"Last Date for submission ",
         subtitle:"of Full length paper",
-        duedate:"30-09-2023"
+        duedate:"15-10-2023"
     },
     {
         title:"Acceptance Notification ",
