@@ -2,6 +2,7 @@
   "name": "ipdims_webapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sriramm18.github.io/Ipdims-conference/",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.10.5",
